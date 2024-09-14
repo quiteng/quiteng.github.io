@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://quiteng.github.io/sitemap.html.gz
+Sitemap: https://quiteng.github.io/app/sitemap.html.gz
+Sitemap: https://quiteng.github.io/assets/sitemap.html.gz
+Sitemap: https://quiteng.github.io/css/sitemap.html.gz
+Sitemap: https://quiteng.github.io/includes/sitemap.html.gz
+Sitemap: https://quiteng.github.io/item/sitemap.html.gz
+Sitemap: https://quiteng.github.io/src/sitemap.html.gz
